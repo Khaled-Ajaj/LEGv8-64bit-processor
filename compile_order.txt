@@ -1,0 +1,27 @@
+The compile order for this assignment  is as follows:
+
+adder.vhd
+RippleAdder.vhd
+rca32bit.vhd
+ADD.vhd
+twosComp.vhd
+ALU.vhd
+ALUControl.vhd
+CPUControl.vhd
+lab6_dmem.vhd
+lab6_imem.vhd
+PC.vhd
+registers.vhd
+ShiftLeft2.vhd
+SignExtend.vhd
+IFID.vhd
+IDEX.vhd
+EXMEM.vhd
+MEMWB.vhd
+hazardDetect.vhd
+forward.vhd
+pipelinedcpu2.vhd
+
+
+testbenches:
+cputest.vhd

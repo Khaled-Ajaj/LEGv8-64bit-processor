@@ -1,0 +1,183 @@
+/h/kajaj01/EE126_Lab/lab6/cputest.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/cputest.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cputest
+-- Compiling architecture test of cputest
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/CPUControl.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/CPUControl.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CPUControl
+-- Compiling architecture behavioral of CPUControl
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/rca32bit.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/rca32bit.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity rca32bit
+-- Compiling architecture Behavioral of rca32bit
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/ALU.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/ALU.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture behavioral of ALU
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/IDEX.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/IDEX.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity IDEX
+-- Compiling architecture behavioral of IDEX
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/hazardDetect.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/hazardDetect.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity hazardDetect
+-- Compiling architecture behavioral of hazardDetect
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/RippleAdder.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/RippleAdder.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity RippleAdder
+-- Compiling architecture Behavioral of RippleAdder
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/pipelinedcpu2.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/pipelinedcpu2.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PipelinedCPU2
+-- Compiling architecture behavioral of PipelinedCPU2
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/lab6_imem.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/lab6_imem.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IMEM
+-- Compiling architecture behavioral of IMEM
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/EXMEM.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/EXMEM.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity EXMEM
+-- Compiling architecture behavioral of EXMEM
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/IFID.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/IFID.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity IFID
+-- Compiling architecture behavioral of IFID
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/forward.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/forward.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity forward
+-- Compiling architecture behavioral of forward
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/lab6_dmem.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/lab6_dmem.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DMEM
+-- Compiling architecture behavioral of DMEM
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/adder.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/adder.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity adder
+-- Compiling architecture Behavioral of adder
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/MEMWB.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/MEMWB.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MEMWB
+-- Compiling architecture behavioral of MEMWB
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/registers.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/registers.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity registers
+-- Compiling architecture behavioral of registers
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/ADD.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/ADD.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ADD
+-- Compiling architecture Behavioral of ADD
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/SignExtend.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/SignExtend.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SignExtend
+-- Compiling architecture behavioral of SignExtend
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/ALUControl.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/ALUControl.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALUControl
+-- Compiling architecture Behavioral of ALUControl
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/PC.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/PC.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PC
+-- Compiling architecture behavioral of PC
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/ShiftLeft2.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/ShiftLeft2.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ShiftLeft2
+-- Compiling architecture behavioral of ShiftLeft2
+
+} {} {}} /h/kajaj01/EE126_Lab/lab6/twosComp.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/kajaj01/EE126_Lab/lab6/twosComp.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity twosComp
+-- Compiling architecture behavioral of twosComp
+
+} {} {}}
